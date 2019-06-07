@@ -48,7 +48,10 @@ The EOS Nation DSP Portal provides a user-friendly way to access to all services
 
 #### 2.1.1 Select a Package
 
-To begin using a DPS service, you must first select a package. Each EOS account can only use 1 package at a time.
+Using the same account, you:
+-	can select different packages from different DSPs  (select 2 different oracle packages from 2 different DSPs)
+-	can select different package service types from the same DSP (select cron + oracle packages from the same DSP)
+-	can only select 1 package service type per DSP ( can't select multiple oracle services from the same DSP)
 
 
 #### 2.1.2 Stake and Unstake DAPP or DAPPHDL
@@ -56,35 +59,32 @@ To begin using a DPS service, you must first select a package. Each EOS account 
 In order to use a DSP service, you must first stake the minimum amount of DAPP (or DAPPHDL) required by the DSP package.  You can unstake your tokens once you no longer wish to use the DSP service.
 
 
-#### 2.1.3 Stake and Unstake DAPPHDL
+#### 2.1.3 Refund Required
+
+After unstaking your tokens and waiting for the unstake period to complete, you will need to request a refund to regain access to your tokens.
 
 
-#### 2.1.4 Refund Required
-
-After unstaking your tokens and waiting for the unstake period to complete, you will need to request a refund to regain access to your tokens.????
-
-
-#### 2.1.5 Close a Package
+#### 2.1.4 Close a Package
 
 After unstaking and refunding your tokens, closing your current package which will allow you to select a different one from any DSP of your choosing.
 
 
-#### 2.1.6 What does QUOTA mean?
+#### 2.1.5 What does QUOTA mean?
 
 Quota refers to the amount of transactions allowed per package period.  A quota of 1 allows 10,000 actions per package period.
 
 
-#### 2.1.7 What does Minimum Stake mean?
+#### 2.1.6 What does Minimum Stake mean?
 
 This is the minimum amount of DAPP tokens that needs to be staked to the DSP in order to receive services.  NOTE:  staking less then the minimum required for a service is possible but would not allow you to use the services offered by the package.
 
 
-#### 2.1.8 Package Period
+#### 2.1.7 Package Period
 
 The time period until your quota is refreshed.
 
 
-#### 2.1.9 Unstake Period
+#### 2.1.8 Unstake Period
 
 The amount of time required when unstaking your DAPP tokens from the DSP.
 
