@@ -61,7 +61,7 @@ In order to use a DSP service, you must first stake the minimum amount of DAPP (
 
 #### 2.1.3 Refund Required
 
-After unstaking your tokens and waiting for the unstake period to complete, you will need to request a refund to regain access to your tokens.
+In some rare cases staked Tokens are not automatically refunded after the unstake period has passed. If unstake period has passed but Tokens have not been refunded to your account, you will need to request a refund to regain access to your tokens by using the Refund Action.
 
 
 #### 2.1.4 Close a Package
@@ -86,7 +86,7 @@ The time period until your quota is refreshed.
 
 #### 2.1.8 Unstake Period
 
-The amount of time required when unstaking your DAPP tokens from the DSP.
+The amount of time required when unstaking your DAPP tokens from the DSP. 
 
 
 #### 2.2 Status
