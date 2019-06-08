@@ -16,7 +16,7 @@ A package is provided by a DSP and includes: a service, a quota, a minimum stake
 
 #### 1.1.3 What is a Service?
 
-A service is offered by DSPs to dapp developers allowing off-chain processing with on-chain integrity. Access to IPFS storage, executing cron jobs, querying an oracle and DAPP staking services are current examples of services provided by DPSs.
+A service is offered by DSPs to dapp developers allowing off-chain processing with on-chain integrity. Access to IPFS storage, executing cron jobs, querying an oracle and DAPP staking services are current examples of services provided by DSPs.
 
 
 #### 1.1.4 What are DAPP tokens?
