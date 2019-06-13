@@ -98,7 +98,7 @@ Online services currently being offered.
 
 #### 2.2.2 Selected
 
-Online services you’ve already communicated with and enabled.
+Service Package you’ve selected and ready to communicated with.
 
 
 #### 2.2.3 Deprecated
@@ -113,7 +113,7 @@ You are currently staking to this package and have access to the service.
 
 #### 2.2.5 Pending
 
-You are currently unstaking your tokens and are waiting for the unstaked period to end.
+You have selected the service package but have not reached the minimum stake quantity yet.
 
 
 #### 2.2.6 Low Stake
